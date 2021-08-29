@@ -1,0 +1,3 @@
+escrevendo uma mensagem no arquivo e pulando uma linha 2
+escrevendo uma mensagem no arquivo e pulando uma linha 3
+as                         sss
